@@ -1,0 +1,42 @@
+  1  cd OS-labs 
+  2  mkdir Week1
+  3  cd Week1
+  4  ls /usr/bin/ | sort -r | grep gcc > /OS-labs/Week1/ex1.txt
+  5  ls /usr/bin/ | sort -r | grep gcc > ex1.txt
+  6  whoami
+  7  hostname
+  8  man whoami
+  9  cd Desktop
+  10  mkdir OS-labs
+  11  cd OS-labs
+  12  mkdir week1
+  13  cd week1
+  14  ls /usr/bin/ | sort -r | grep gcc > ex1.txt
+  15  whoami
+  16  hostname
+  17  pwd
+  18  history > ex2.txt
+  19  date
+  20  sleep 3
+  21  date
+  22  date sleep3 date > ex3.sh
+  23  #!/bin/bash
+  24  date
+  25  sleep3
+  26  sleep 3
+  27  date
+  28  sh ex3.sh
+  29  gedit /week1/main.c
+  30  gedit main.c
+  31  main.c
+  32  >main.c
+  33  gcc main.c -o ex4
+  34  gcc main.c -o ex4
+  35  gcc main.c -o ex4
+  36  gcc main.c -o ex4
+  37  gcc main.c -o ex4
+  38  gcc main.c -o ex4
+  39  gcc main.c -o ex4
+  40  .ex4/
+  41  ./ex4
+  42  history > commandhystory.txt

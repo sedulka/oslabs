@@ -1,0 +1,18 @@
+  1  cd OS-labs 
+  2  mkdir Week1
+  3  cd Week1
+  4  ls /usr/bin/ | sort -r | grep gcc > /OS-labs/Week1/ex1.txt
+  5  ls /usr/bin/ | sort -r | grep gcc > ex1.txt
+  6  whoami
+  7  hostname
+  8  man whoami
+  9  cd Desktop
+  10  mkdir OS-labs
+  11  cd OS-labs
+  12  mkdir week1
+  13  cd week1
+  14  ls /usr/bin/ | sort -r | grep gcc > ex1.txt
+  15  whoami
+  16  hostname
+  17  pwd
+  18  history > ex2.txt
