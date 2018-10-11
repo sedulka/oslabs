@@ -1,0 +1,24 @@
+Processes: 410 total, 2 running, 408 sleeping, 2011 threads            22:23:45
+Load Avg: 2.07, 2.03, 2.36  CPU usage: 1.10% user, 4.65% sys, 94.23% idle
+SharedLibs: 128M resident, 39M data, 10M linkedit.
+MemRegions: 201949 total, 2093M resident, 58M private, 738M shared.
+PhysMem: 8070M used (2274M wired), 121M unused.
+VM: 2876G vsize, 1111M framework vsize, 46642003(0) swapins, 47747400(0) swapout
+Networks: packets: 134736739/169G in, 51927617/9068M out.
+Disks: 12219550/357G read, 14163014/449G written.
+
+PID    COMMAND      %CPU TIME     #TH   #WQ  #PORT MEM    PURG   CMPRS  PGRP
+93571  MIDIServer   0.0  00:17.46 5     1    356   76K    0B     2316K  93571
+88384  com.apple.ph 0.0  00:00.42 2     2    43    8192B  0B     4916K  88384
+88307  AppleSpell   0.0  00:01.87 2     1    87    476K   0B     11M    88307
+78188  com.apple.au 0.0  00:00.02 2     2    23    4096B  0B     916K   78188
+72449  syspolicyd   0.0  01:01.90 2     1    69    4008K  0B     7268K  72449
+38834  dprivacyd    0.0  00:03.41 2     2    60    8192B  0B     3476K  38834
+33517  top          11.2 00:01.97 1/1   0    23    4272K  0B     0B     33517
+33515  sudo         0.0  00:00.07 3     1    39    1644K  0B     0B     33515
+33504  Google Chrom 0.0  00:00.15 15    1    98    13M    4096B  0B     331
+33503  Google Chrom 0.0  00:01.85 15    1    127   29M    4096B  0B     331
+33502  Google Chrom 0.0  00:00.66 16    1    127   24M    4096B  0B     331
+33501  Google Chrom 0.0  00:01.03 15    1    125   42M    4096B  0B     331
+33499  Google Chrom 0.6  00:11.63 16    1    123   41M+   0B     5396K  331
+33498  Google Chrom 0.0  00:01.04 15    1    118   17M    0B     8088K  331

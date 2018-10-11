@@ -1,0 +1,1 @@
+A physical address is an address to exact place in the Random access memory. A virtual address is address which transform an address in physical address by using pages.
